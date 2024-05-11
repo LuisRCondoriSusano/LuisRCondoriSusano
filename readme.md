@@ -1,4 +1,5 @@
 ### Hola,soy Luis Rodrigo Condori Susaño 😎👋
+Estudiante de Ingenieria Mecatronica de la UCB, bachiller del Colegio Bolivariano Nacional Pichincha, activo en intentar cosas nuevas y intentar ser un poco mejor cada dia.
 <p align="left">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=¡Bienvenidos+a+mi+perfil!&center=true&width=360&height=30">
 </p>
@@ -16,16 +17,16 @@
 - ⚡Tecnico Medio en Electricidad del Tecnico Industrial Pichincha.
 - 🎨Me gusta el cine, la música y tocar la guitarra.
 - 🔺Soy alguien que intenta ser un poco mejor cada vez.
-- 📫 Te puedes contactar conmigo en: luisrodrigo1106@gmail.com
-
-
+- 📫 Te puedes contactar conmigo en: (luisrodrigo1106@gmail.com)
+> ⭐️ [Algunos de mis trabajos](https://github.com/LuisRCondoriSusano/Desarrollo-de-Sofware)
+- 🌱 participo en un curso de robotica.
 
 <!--
 **rodriCondori/rodriCondori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭
 - 🌱 I’m currently learning ...
 - 👯 I’m uto collaborate on ju
 - 🤔 I’m looking for help with ...
