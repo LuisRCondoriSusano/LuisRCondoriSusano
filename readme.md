@@ -2,7 +2,6 @@
 <p align="left">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=¡Bienvenidos+a+mi+perfil!&center=true&width=360&height=30">
 </p>
-🔥Vivi toda mi vida en la ciudad de Potosí, tengo 18 años, sali bachiller del Colegio Nacional Pichincha y optimista para nuevos retos.
 
 ![image](https://github.com/rodriCondori/rodriCondori/assets/159298397/4177cbec-eb97-4c04-aaa3-742caa4a5b15)
 
