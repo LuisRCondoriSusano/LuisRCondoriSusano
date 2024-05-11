@@ -17,7 +17,7 @@ Estudiante de Ingenieria Mecatronica de la UCB, bachiller del Colegio Bolivarian
 - ⚡Tecnico Medio en Electricidad del Tecnico Industrial Pichincha.
 - 🎨Me gusta el cine, la música y tocar la guitarra.
 - 🔺Soy alguien que intenta ser un poco mejor cada vez.
-- 📫 Te puedes contactar conmigo en: (luisrodrigo1106@gmail.com)
+- 📫 Te puedes contactar conmigo en: luisrodrigo1106@gmail.com
 > ⭐️ [Algunos de mis trabajos](https://github.com/LuisRCondoriSusano/Desarrollo-de-Sofware)
 - 🌱 participo en un curso de robotica.
 
