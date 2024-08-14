@@ -1,5 +1,5 @@
 ### Hola,soy Luis Rodrigo Condori Susaño 😎👋
-Estudiante de Ingenieria Mecatronica de la UCB, bachiller del Colegio Bolivariano Nacional Pichincha, activo en intentar cosas nuevas y intentar ser un poco mejor cada dia.
+Estudiante de Ingenieria Mecatronica de la UCB, bachiller del Colegio Bolivariano Nacional Pichincha, actualmente estoy en mi segundo semestre e intento mejorar un poco cada día.
 <p align="left">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=¡Bienvenidos+a+mi+perfil!&center=true&width=360&height=30">
 </p>
